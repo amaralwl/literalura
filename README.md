@@ -40,3 +40,6 @@ A aplicação possui as seguintes funcionalidades:
 ![image](https://github.com/amaralwl/literalura/assets/163368895/75bcc475-8cb9-4398-aaa3-c18ac4be947d)
 
 ![image](https://github.com/amaralwl/literalura/assets/163368895/c709cb1b-413f-497c-8484-68f6e2d4f3cf)
+
+
+![badge literalura](https://github.com/amaralwl/literalura/assets/163368895/b4eafbc2-e2f0-41a1-bb1a-48ba16ef8697)
